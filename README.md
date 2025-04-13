@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-My name is Alen Koikkara. I am currently pursuing masters in Computer Science in Chicago. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I've worked for Ketto in the past and currently working for a non profit organization building their application ground up. I believe in ideas, ideas that can innovate; I believe in creation and persistence, someone who is constantly evolving with modern change.
+My name is Alen Koikkara. I am a Developer | Designer with over 2 years of experience. I am currently pursuing Masters in Computer Science in Chicago. I'm highly skilled with **JavaScript/TypeScript** 💻 and all its associated runtimes. I've worked for Ketto in the past and currently revamping web presence for a non profit. I believe in ideas, ideas that can innovate; I believe in creation and persistence, someone who is constantly evolving with change.
 - Portfolio - [(link)](https://bento.me/koikkara)
 ### 🌟 Technologies I've worked with:
 
@@ -29,9 +29,11 @@ My name is Alen Koikkara. I am currently pursuing masters in Computer Science in
 
 
 ### 🎊 Few of my awesome projects:
-- Aglet(Fullstack E-commerce Webapp) - [(link)](https://aglet.vercel.app/)
+- Aglet(Fullstack E-commerce Webapp) - [(link)](https://aglet.alenkoikkara.com/))
 - Weather App - [(link)](https://github.com/AlenKoikkara/WeatherApp)
-- Portfolio Website(For client) - [(link)](https://anchalmaria.com/work/amazon#overview)
+- Portfolio Website(For client) - [(link)](https://anchalmaria.com)
+
+- I am currently working on building a side project; Splitsense(Expense and budget tracking tool)
 
 <!--
 **AlenKoikkara/AlenKoikkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
