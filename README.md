@@ -13,6 +13,10 @@ My name is Alen Koikkara. I am a Developer | Designer with over 2 years of exper
 - Node.js
 - MongoDB
 - Firestore
+- FastAPI
+- Python
+- ChromaDB
+- Cohere
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
@@ -32,6 +36,8 @@ My name is Alen Koikkara. I am a Developer | Designer with over 2 years of exper
 - Aglet(Fullstack E-commerce Webapp) - [(link)](https://aglet.alenkoikkara.com/))
 - Weather App - [(link)](https://github.com/AlenKoikkara/WeatherApp)
 - Portfolio Website(For client) - [(link)](https://anchalmaria.com)
+- Portfolio Website(For client) - [(link)](https://www.net.shreyauxfolio.com/)
+- Personal Knowledge base - 
 
 - I am currently working on building a side project; Splitsense(Expense and budget tracking tool)
 
